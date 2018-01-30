@@ -1,0 +1,9 @@
+{
+  "AUDIO_CALCULATING" : [ "bmw_driveby.mp3" ],
+  "AUDIO_CORRECT" : [ "car_horn_1.mp3", "car_horn.mp3" ],
+  "AUDIO_DING" : [ "car_start.mp3" ],
+  "AUDIO_GAME_INTRO" : [ "car_speed_1.mp3" ],
+  "AUDIO_GAME_OUTRO" : [ "car_start_honk_backfire.mp3" ],
+  "AUDIO_INCORRECT" : [ "TeacherTemplateIncorrectGasp.ogg", "TeacherTemplateIncorrectBritishWhat.ogg", "TeacherTemplateIncorrectBuzzOhNo.ogg", "TeacherTemplateIncorrectGross.ogg", "TeacherTemplateIncorrectOoohAwkLaugh.ogg", "TeacherTemplateBuzz.ogg" ],
+  "AUDIO_ROUND_ENDED" : [ "car_running.mp3" ]
+}

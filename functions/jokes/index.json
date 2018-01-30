@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "type": "general",
+    "setup": "Girl: You would be a good dancer except for two things\n Boy: What are the two things?",
+    "punchline": "Girl: Your feet."
+  },
+  {
+    "id": 2,
+    "type": "general",
+    "setup": "A family of mice were surprised by a big cat. Father Mouse jumped and and said, “Bow-wow!” The cat ran away. “What was that, Father?” asked Baby Mouse. ",
+    "punchline": "“Well, son, that’s why it’s important to learn a second language.”"
+  },
+  {
+    "id": 3,
+    "type": "general",
+    "setup": "My friend said he knew a man with a wooden leg named Smith.",
+    "punchline": "So I asked him “What was the name of his other leg?”"
+  },
+  {
+    "id": 4,
+    "type": "general",
+    "setup": "The doctor to the patient: ‘You are very sick’The patient to the doctor: ‘Can I get a second opinion?’",
+    "punchline": "The doctor again: ‘Yes, you are very ugly too…’"
+  }
+]
